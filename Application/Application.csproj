@@ -24,10 +24,4 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Employees\" />
-    <Folder Include="Products\" />
-    <Folder Include="Sales\" />
-  </ItemGroup>
-
 </Project>
